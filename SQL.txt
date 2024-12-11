@@ -1,0 +1,38 @@
+------MaDepartment
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (1, 'PRODUCTION', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (2, 'QUALITY', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (003, 'STORES', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (004, 'PURCHASE', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (005, 'DESIGN', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (006, 'ACCOUNTS', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (007, 'TOOL ROOM', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (008, 'SALES', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (009, 'HUMAN RESOURCE', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (010, 'TRANSPORT', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (011, 'FINAL', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (012, 'ADMIN', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (013, 'MAINTENANCE', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (014, 'HOUSE KEEPING', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (015, 'RM STORE', '', '')
+--Insert into MaDepartment (DepartmentCode, DepartmentName, DepAbb, DepNos) Values (016, 'QUALITY MANAGEMENT SYSTEM', '', '')
+--------Employee 
+--Insert Into Employee VALUES (1,'ARUN', '', '', 1, '', 1, 1, 'E001')
+--Insert Into Employee VALUES (2,'KUMAR', '', '', 2, '', 3, 2, 'E002')
+--Insert Into Employee VALUES (3,'BALU', '', '', 3, '', 2, 3, 'E003')
+--Insert Into Employee VALUES (4,'RAM', '', '', 4, '', 5, 4, 'E004')
+--Insert Into Employee VALUES (5,'SURESH', '', '', 5, '', 3, 5, 'E005')
+--Insert Into Employee VALUES (6,'LAKSHMAN', '', '', 6, '', 7, 6, 'E006')
+--Insert Into Employee VALUES (7,'ALAGAR', '', '', 7, '', 5, 7, 'E007')
+--Insert Into Employee VALUES (8,'RAJESH', '', '', 8, '', 8, 8, 'E008')
+--Insert Into Employee VALUES (9,'RAVI', '', '', 9, '', 8, 8, 'E009')
+--Insert Into Employee VALUES (10,'VISHNU', '', '', 9, '', 8, 8, 'E010')
+--Insert Into Employee VALUES (11,'GEETHA', '', '', 10, '', 9, 9, 'E011')
+--------LOGIN 
+--INSERT INTO LOGIN VALUES ('leave','leave','',1,1)
+---------
+--ALTER TABLE TrPermissionMain
+--ADD ID INT;
+
+--ALTER TABLE TrPermissionSub
+--ADD ID INT;
+---------
